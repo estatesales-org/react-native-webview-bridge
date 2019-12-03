@@ -22,7 +22,8 @@
   ],
   "author": "Ali Najafizadeh",
   "contributors": [
-    "Hunter Medney"
+    "Hunter Medney",
+    "Akin Williams"
   ],
   "license": "MIT",
   "bugs": {
@@ -30,6 +31,7 @@
   },
   "homepage": "https://github.com/alinz/react-native-webview-bridge",
   "dependencies": {
+    "react-native-webview": "^7.5.2",
     "create-react-class": "^15.6.0",
     "invariant": "^2.2.2",
     "keymirror": "0.1.1",
